@@ -1,0 +1,33 @@
+.sidebar {
+  background: #363740;
+  width: 255px;
+  height: 1100px;
+// padding-top: 41px;
+}
+.btn{
+  width: 100%;
+  background:transparent;
+  border: none;
+  font-family: 'Muli';
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.2px;
+color: #A4A6B3;
+}
+.logo-holder{
+  
+display: flex;
+align-items: center;
+padding: 18px 24px;
+.site-logo{
+  margin-right: 10px;
+}
+span{
+font-size: 19px;
+line-height: 24px;
+letter-spacing: 0.4px;
+color: #A4A6B3;
+opacity: 0.7;
+}
+}
+

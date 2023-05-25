@@ -1,0 +1,33 @@
+.header {
+  &-title {
+    height: 34px;
+    margin-right: 750px;
+    margin-left: 30px;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.3px;
+    color: #252733;
+  }
+  &-search {
+    margin-right: 28px;
+  }
+  &-notif {
+    margin-left: 28px;
+  }
+  &-divider {
+    width: 0px;
+    height: 32px;
+    margin-left: 33px;
+    margin-right: 32px;
+    border: 1px solid #dfe0eb;
+  }
+  &-name {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: 0.2px;
+    color: #252733;
+    margin-right: 14px;
+  }
+ 
+}
